@@ -1,0 +1,13 @@
+{
+  "profiles":
+  [
+    { "name": "David",
+      "age": 30,
+      "hobbies": ["swimming", "biking"]
+    },
+    { "name": "Sarah",
+      "age": 35,
+      "hobbies": ["gardening", "games"]
+    }
+  ]
+}
